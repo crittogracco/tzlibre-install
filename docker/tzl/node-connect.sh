@@ -1,0 +1,1 @@
+docker exec -it tzlibre_node tzlibre-admin-client connect address 192.168.178.20:9732
