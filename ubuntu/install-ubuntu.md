@@ -1,7 +1,7 @@
 # Environments
 This installation has been tested in Ubuntu 20.04 x64 on i386x64 and ARMx64 (Raspberry pi 4B) architectures.
 
-<span style="color:red">__It doesn't work on ARMx32 (tested on Raspberry pi 2)__</span>
+__It doesn't work on ARMx32 (tested on Raspberry pi 2)__
 
 # Install OPAM and all other required packages
 ```
